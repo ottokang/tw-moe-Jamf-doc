@@ -12,17 +12,17 @@ PreStage 是指裝置還原後，到 Jamf 報到的階段，iPad 配發到學校
 
 勾選以下選項：
 
-* Supervise Devices with iOS 12.x or earlier
-* 對具有 iOS 12.x 或更早版本的裝置強制使用 MDM 描述檔
+* ✅ Supervise Devices with iOS 12.x or earlier
+* ✅ 對具有 iOS 12.x 或更早版本的裝置強制使用 MDM 描述檔
 
 ### 受監管裝置的設定
 
 勾選以下選項：
 
-* 配對
-* 防止取消註冊
-* 防止使用者啟用「啟用鎖定」
-* 設定時區為 UTC+08:00 Asia/Taipei
+* ✅ 配對
+* ✅ 防止取消註冊
+* ✅ 防止使用者啟用「啟用鎖定」
+* ✅ 設定時區為 UTC+08:00 Asia/Taipei
 
 ### 設定輔助程式
 
