@@ -14,12 +14,13 @@
 
 ![設定：App 維護](../image/設定：App%20維護.png)
 
-## 如何讓 App 在教師機手動安裝、學生機自動安裝？
+## 如何讓上課需要的 App 在教師機手動安裝、學生機自動安裝？
 
-* 在行動裝置 App 中，右上角新增 → 輸入 App 名稱，國家或地區選 Taiwan，新增一個同名的 App 到系統中。
-  * 記得要勾選管理式發佈 → ✅ 指派大量採購的內容
+* 這樣設定的好處是老師可以自行安裝或試用 App，學校只要控管學生機安裝的範圍就好
+* 在行動裝置 App 中，右上角**新增** → 輸入 App 名稱，國家或地區選 Taiwan，新增一個同名的 App 到系統中
+  * 記得要勾選**管理式發佈** → ✅ 指派大量採購的內容
 * 把 2 個 App 分開設定：
-  * 一個指派範圍給教師機，發佈方法為 Make Avaiable in Self Service
-  * 另一個指派範圍給學生機，發佈方法為 Install Automatically/Prompt Users to Install
+  * 一個指派範圍給教師機，發佈方法為 Make Avaiable in Self Service，讓老師從 Self Service 中自行安裝
+  * 另一個指派範圍給學生機，發佈方法為 Install Automatically/Prompt Users to Install，學生機就會自動安裝
 
 ![設定：App 分別設定](../image/設定：App%20分別設定.png)
