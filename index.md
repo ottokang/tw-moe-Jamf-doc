@@ -2,22 +2,22 @@
 
 ## 設定描述檔
 
-* ### [主畫面佈局](./content/設定描述檔/主畫面佈局.md)
+* ### [主畫面佈局](./content/profiles/home_screen_layout.md)
 
-* ### [鎖定畫面訊息](./content/設定描述檔/鎖定畫面訊息.md)
+* ### [鎖定畫面訊息](./content/profiles/lock_screen_message.md)
 
 * ### 限制
 
-  * [功能性](./content/設定描述檔/限制：功能性.md)
-  * [App](./content/設定描述檔/限制：App.md)
-  * [媒體內容](./content/設定描述檔/限制：媒體內容.md)
+  * [功能性](./content/profiles/restrictions_functionality.md)
+  * [App](./content/profiles/restrictions_apps.md)
+  * [媒體內容](./content/profiles/restrictions_media_content.md)
 
-* ### [WebClip](./content/設定描述檔/WebClip.md)
+* ### [WebClip](./content/profiles/webclips.md)
 
-* ### [Wi-Fi](./content/設定描述檔/Wi-Fi.md)
+* ### [Wi-Fi](./content/profiles/wi-fi.md)
 
-## [行動裝置 App](./content/行動裝置App.md)
+## [行動裝置 App](./content/mobile_device_apps.md)
 
-## [智慧裝置群組](./content/智慧裝置群組.md)
+## [智慧裝置群組](./content/smart_device_groups.md)
 
-## [PreStage 註冊](./content/PreStage註冊.md)
+## [PreStage 註冊](./content/prestage_enrollments.md)

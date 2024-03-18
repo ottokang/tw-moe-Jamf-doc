@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     {% seo %}
+    <title>{{ seo_tag.title | seo_tag.page_title }}</title>
     {% include head-custom.html %}
 </head>
 
@@ -17,7 +18,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
             {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">到 GitHub 專案首頁</a>
+            <a id="forkme_banner" href="{{ site.github.repository_url }}">到 GitHub 查看專案</a>
             {% endif %}
 
             <h1 id="project_title">{{site.title | default: site.github.repository_name}}</h1>
