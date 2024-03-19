@@ -12,7 +12,7 @@
     * App Store Sync Time 可自行設定同步時間
   * `Force updates` 按鈕可以強制 App 更新
 
-![設定：App 維護](../images/settiings_app_maintenance.png)
+![設定：App 維護](./images/settiings_app_maintenance.png)
 
 ## 如何讓上課需要的 App 在教師機手動安裝、學生機自動安裝？
 
@@ -23,4 +23,4 @@
   * 一個指派範圍給教師機，發佈方法為 `Make Avaiable in Self Service`，讓老師從 Self Service 中自行安裝
   * 另一個指派範圍給學生機，發佈方法為 `Install Automatically/Prompt Users to Install`，學生機就會自動安裝
 
-![設定：App 分別設定](../images/settings_app.png)
+![設定：App 分別設定](./images/settings_app.png)
