@@ -1,6 +1,6 @@
 # 設定描述檔 > 限制 > App
 
-[← 返回首頁](../../)
+[← 返回首頁](../)
 
 ## 使用 Apple Configurator 和 iTunes 安裝 App
 
