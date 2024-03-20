@@ -21,3 +21,5 @@
 ## [智慧裝置群組](./smart_device_groups.md)
 
 ## [PreStage 註冊](./prestage_enrollments.md)
+
+## [資產預載](./inventory_preload.md)

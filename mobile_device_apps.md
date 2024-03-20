@@ -20,7 +20,7 @@
 * 在行動裝置 App 中，右上角 `新增` → `輸入 App 名稱`，國家或地區選 `Taiwan`，新增一個同名的 App 到系統中
   * 記得要勾選 `管理式發佈` → `✅ 指派大量採購的內容`
 
-![設定：App 指定大量採購 ](./images/settings_app_volume.png)
+![設定：App 指定大量採購](./images/settings_app_volume.png)
 
 * 把 2 個 App 分開設定：
   1. 一個指派範圍給教師機，發佈方法為 `Make Avaiable in Self Service`，讓老師從 Self Service 中自行安裝
