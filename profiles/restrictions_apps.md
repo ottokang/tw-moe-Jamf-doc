@@ -36,7 +36,7 @@
 >
 > ## 所有購買都須輸入 iTunes Store 密碼
 
-* 系統內建 App，建議**學生機設定為限制**
+* 是否可以使用系統內建 App，建議**學生機設定為限制**
   * 👨‍🏫 教師機建議設定：不設定
   * 👩‍🎓 學生機建議設定：⛔ 限制
 
@@ -56,7 +56,7 @@
 * 控管裝置可以使用的 App
   * 👨‍🏫 教師機建議設定：不設定
   * 👩‍🎓 學生機建議設定：不允許部份 App，可以參考[原生 iPhone 和 iPad App 的套件識別碼](https://support.apple.com/zh-tw/guide/deployment/depece748c41/web)，將內建的 App 關閉，減少教學干擾
-  * 如果關閉了 `com.apple.webapp`，就可以完全禁止使用者用 Safari 新增捷徑到桌面，但是就無法使用 WebClip 功能，請根據教學情況使用
+    * 如果關閉了 `com.apple.webapp`，就可以完全禁止使用者用 Safari 新增捷徑到桌面，但是就無法使用 WebClip 功能，請根據教學情況使用
 
 ## 自主單一 App 模式 App
 

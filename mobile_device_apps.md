@@ -23,7 +23,7 @@
 ![設定：App 指定大量採購 ](./images/settings_app_volume.png)
 
 * 把 2 個 App 分開設定：
-  * 一個指派範圍給教師機，發佈方法為 `Make Avaiable in Self Service`，讓老師從 Self Service 中自行安裝
-  * 另一個指派範圍給學生機，發佈方法為 `Install Automatically/Prompt Users to Install`，學生機就會自動安裝
+  1. 一個指派範圍給教師機，發佈方法為 `Make Avaiable in Self Service`，讓老師從 Self Service 中自行安裝
+  2. 另一個指派範圍給學生機，發佈方法為 `Install Automatically/Prompt Users to Install`，學生機就會自動安裝
 
 ![設定：App 分別設定](./images/settings_app.png)
