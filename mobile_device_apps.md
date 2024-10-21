@@ -9,7 +9,7 @@
 * ✅ 自動強制執行 App 更新
   * ✅ 自動更新透過 Self Service 安裝的應用程式
 * ✅ 排程 Jamf Pro，使其自動檢查 App Store 是否有應用程式更新
-  * App Store 國家或地區請選 Taiwan
+  * App Store 國家或地區請選 `Taiwan`
   * App Store Sync Time 可自行設定同步時間
 * `Force updates` 可以強制 App 更新
 
@@ -19,9 +19,7 @@
 
 這樣設定的好處是教師可以自行安裝或試用 App，學校只要控管學生機安裝 App 的範圍就好，設定步驟如下：
 
-1. 在行動裝置 App 中，右上角 `新增` → `輸入 App 名稱`，國家或地區選 `Taiwan`，新增一個同名的 App 到系統中。記得要勾選 `管理式發佈` → `✅ 指派大量採購的內容`
-
-![設定：App 指定大量採購](./images/settings_app_volume.png)
+1. 在行動裝置 App 中，右上角 `新增` → 輸入 App 名稱，國家或地區選 `Taiwan`，新增一個同名的 App 到系統中
 
 2. 把 2 個 App 分開設定：
 
@@ -29,3 +27,7 @@
 * 另一個指派範圍給學生機，發佈方法為 `Install Automatically/Prompt Users to Install`，學生機就會自動安裝
 
 ![設定：App 分別設定](./images/settings_app.png)
+
+3. 記得都要勾選 `管理式發佈` → `✅ 指派大量採購的內容`
+
+![設定：App 指定大量採購](./images/settings_app_volume.png)
