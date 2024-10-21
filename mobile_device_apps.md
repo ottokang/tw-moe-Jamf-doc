@@ -28,6 +28,6 @@
 
 ![設定：App 分別設定](./images/settings_app.png)
 
-3. 記得都要勾選 `管理式發佈` → `✅ 指派大量採購的內容`
+* App 設定都要勾選 `管理式發佈` → `✅ 指派大量採購的內容`
 
 ![設定：App 指定大量採購](./images/settings_app_volume.png)
