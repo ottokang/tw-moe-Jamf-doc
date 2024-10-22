@@ -461,8 +461,23 @@ AirPrint 相關功能，建議**學生機設定為限制**
 > ## 定義查詢
 >
 > ## 聽寫
+>
+> ## 產生個人風格手寫內容
 
 輸入相關功能，建議不設定
+
+* 👨‍🏫 教師機建議設定：不設定
+* 👩‍🎓 學生機建議設定：不設定
+
+> ## Apple Intelligence：Genmoji
+>
+> ## Apple Intelligence：Image Playground
+>
+> ## Apple Intelligence：Image Wand
+>
+> ## Apple Intelligence：Writing Tools
+
+Apple Intelligence 相關功能，生生用平板無法使用，建議不設定
 
 * 👨‍🏫 教師機建議設定：不設定
 * 👩‍🎓 學生機建議設定：不設定
@@ -551,3 +566,11 @@ tvOS 相關設定，可略過
 ## ~~Mac 上的 iPhone 小工具~~
 
 是否可以在 macOS 上查看 iPhone 小工具，iPad 不支援，可略過
+
+## ~~從替代市場安裝 App~~
+
+歐盟地區功能，可略過
+
+## ~~從 Web 發佈安裝 App~~
+
+歐盟地區功能，可略過
