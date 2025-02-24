@@ -15,11 +15,7 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-        <header class="inner">
-            {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">到 GitHub 查看專案</a>
-            {% endif %}
-
+        <header class="inner">            
             <h1 id="project_title">{{site.title | default: site.github.repository_name}}</h1>
             <!--<h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>-->
 
@@ -41,10 +37,9 @@
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
-        <footer class="inner">
+        <footer class="inner">            
             {% if site.github.is_project_page %}
-            <p class="copyright">{{ site.title | default: site.github.repository_name }} 由 <a href="{{ site.github.owner_url }}">{{
-                    site.github.owner_name }}</a>維護</p>
+                <a href="{{ site.github.repository_url }}">GitHub 專案網站</a>
             {% endif %}
         </footer>
     </div>
