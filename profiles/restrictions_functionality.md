@@ -50,11 +50,24 @@
 * 👨‍🏫 教師機建議設定：✅ 允許
 * 👩‍🎓 學生機建議設定：✅ 允許
 
+## ~~通話錄音~~
+
+iPad 不適用，可略過
+
+## ~~即時語音郵件~~
+
+iPad 不適用，可略過
+
 ## 訊息
 
-是否可以使用訊息（iMessage），需要登入 Apple ID
+是否可以使用訊息（iMessage），需要登入 Apple ID，建議關閉
+
 * 👨‍🏫 教師機建議設定：⛔ 限制
 * 👩‍🎓 學生機建議設定：⛔ 限制
+
+## RCS 傳訊
+
+是否可以使用 RCS 訊息，生生用平板 iPad 沒有 SIM 卡，可略過此設定
 
 ## 裝置鎖定時使用語音撥號
 
@@ -428,6 +441,10 @@ Apple Watch 偵測與配對，為了減少教學干擾，建議**學生機設定
 * 👨‍🏫 教師機建議設定：不設定
 * 👩‍🎓 學生機建議設定：不設定
 
+## ~~衛星連線~~
+
+是否可以使用衛星連線，iPad 不適用，可略過
+
 ## Wi-Fi 電源關閉
 
 是否可以關閉 Wi-Fi 電源，為了管理方便，建議**設定為限制**
@@ -478,9 +495,20 @@ AirPrint 相關功能，建議**學生機設定為限制**
 >
 > ## Apple Intelligence：Image Playground
 >
-> ## Apple Intelligence：Image Wand
+> ## Apple Intelligence：郵件摘要
+>
+> ## Apple Intelligence：備忘錄文字記錄摘要
+>
+> ## Apple Intelligence：視覺智慧摘要
 >
 > ## Apple Intelligence：Writing Tools
+>
+> ## 外部情報整合
+>
+> ### 外部情報登入
+>
+> ## Apple Intelligence：允許外部智慧工作區 ID
+>
 
 Apple Intelligence 相關功能，生生用平板無法使用，建議不設定
 
@@ -579,3 +607,10 @@ tvOS 相關設定，可略過
 ## ~~從 Web 發佈安裝 App~~
 
 歐盟地區功能，可略過
+
+## 預設瀏覽器修改
+
+是否可以修改預設瀏覽器，建議**學生機設定為限制**
+
+* 👨‍🏫 教師機建議設定：✅ 允許
+* 👩‍🎓 學生機建議設定：⛔ 限制
