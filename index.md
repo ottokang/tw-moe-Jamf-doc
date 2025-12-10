@@ -6,6 +6,8 @@
 
 * ### [鎖定畫面訊息](./profiles/lock_screen_message.md)
 
+* ### [密碼](./profiles/passcode.md)
+
 * ### 限制
 
   * [功能性](./profiles/restrictions_functionality.md)
