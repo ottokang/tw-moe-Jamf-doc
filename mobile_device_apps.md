@@ -6,10 +6,14 @@
 
 * 請到 `設定` → 上方`裝置管理`頁籤 → `App 維護`，勾選以下選項：
   * ✅ 自動強制執行 App 更新
+
     * ✅ 自動更新透過 Self Service 安裝的應用程式
+
   * ✅ 排程 Jamf Pro，使其自動檢查 App Store 是否有應用程式更新
+
     * App Store 國家或地區請選 `Taiwan`
     * App Store Sync Time 可自行設定同步時間，建議設定為網路離峰時間
+
 * `Force updates` 可以強制 App 更新
 
   ![設定：App 維護](./images/settiings_app_maintenance.png)
