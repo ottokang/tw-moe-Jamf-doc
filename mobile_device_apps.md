@@ -32,6 +32,6 @@
 
     ![設定：App 分別設定](./images/settings_app.png)
 
-  * App 設定都要勾選 `管理式發佈` → `✅ 指派大量採購的內容`
+  * 所有 App 都要勾選上方`管理式發佈`頁籤 → `✅ 指派大量採購的內容`，不然會安裝失敗
 
     ![設定：App 指定大量採購](./images/settings_app_volume.png)
