@@ -10,9 +10,11 @@
 
 * ### 限制
 
-  * [功能性](./profiles/restrictions_functionality.md)
-  * [App](./profiles/restrictions_apps.md)
-  * [媒體內容](./profiles/restrictions_media_content.md)
+    * [功能性](./profiles/restrictions_functionality.md)
+
+    * [App](./profiles/restrictions_apps.md)
+
+    * [媒體內容](./profiles/restrictions_media_content.md)
 
 * ### [WebClip](./profiles/webclips.md)
 
