@@ -14,6 +14,6 @@
 
 * ## 透過正規表示法管理智慧裝置群組
 
-    * 運算子設定設定為 `與規格運算式相符`，就可以使用正規表達式統計裝置，可參考 [Jamf 官方說明文件](https://learn.jamf.com/zh-TW/bundle/technical-articles/page/Using_Regex_with_Smart_Groups_and_Advanced_Searches.html)，例如：
+    * 運算子設定設定為 `與規格運算式相符`，就可以使用正規表達式統計裝置，可參考 Jamf 官方說明文件 [Using Regex with Smart Groups and Advanced Searches](https://learn.jamf.com/r/en-US/technical-articles/Using_Regex_with_Smart_Groups_and_Advanced_Searches)，例如：
 
         * 裝置名稱開頭為 moe-TCH：規則設定為`顯示名稱`，值設定為`^moe-TCH`

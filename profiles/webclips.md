@@ -2,7 +2,7 @@
 
 [← 返回首頁](../)
 
-新增桌面連結，讓使用者可以直接點選
+* 此功能可以在桌面新增連結，讓使用者可以直接點選。
 
 * 如果在 [限制：App#App 使用情況](./restrictions_apps.md#app-使用情況) 中限制了 `com.apple.webapp`，WebClip 就不會作用
 
