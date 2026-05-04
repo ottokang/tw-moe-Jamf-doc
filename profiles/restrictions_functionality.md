@@ -82,7 +82,7 @@
 
 * iPhone 相關設定，可略過
 
-## Siri
+## Siri `（已棄用）`
 
 * 是否可以使用 Siri，建議**學生機設定為限制**
 
@@ -90,17 +90,17 @@
 
     * 👩‍🎓 學生機建議設定：⛔ 限制
 
-### 裝置鎖定時使用 Siri
+  ### 裝置鎖定時使用 Siri `（已棄用）`
 
-### Siri 中使用者產生的內容
+  ### Siri 中使用者產生的內容 `（已棄用）`
 
-### 連接 Siri 伺服器以協助改善 Siri 和聽寫
+  ### 連接 Siri 伺服器以協助改善 Siri 和聽寫 `（已棄用）`
 
-### 連接 Siri 伺服器以進行翻譯
+  ### 連接 Siri 伺服器以進行翻譯 `（已棄用）`
 
-* Siri 相關設定，可略過
+    * Siri 相關設定，可略過
 
-## 粗話過濾器輔助程式
+## 粗話過濾器輔助程式 `（已棄用）`
 
 * 語音輸入是否強制執行粗話過濾，建議**學生機設定為強制執行**
 
@@ -115,6 +115,8 @@
     * 👨‍🏫 教師機建議設定：不設定
 
     * 👩‍🎓 學生機建議設定：⛔ 限制
+
+## ~~伺服器端的 Siri 命令記錄~~  `（已棄用）`
 
 ## 新裝置設定近距離提示
 
@@ -450,9 +452,9 @@
 
     * 👩‍🎓 學生機建議設定：⛔ 限制
 
-### ~~修改 Touch ID/Face ID~~
+  ### ~~修改 Touch ID/Face ID~~
 
-* 可略過
+    * 可略過
 
 ## 密碼自動填寫
 
@@ -527,39 +529,33 @@
 
 ## AirPrint
 
-## AirPrint 至具有不可信任的憑證目的地
-
-## 使用 iBeacon 探索 AirPrint 印表機
-
-## 在鑰匙圈中儲存 AirPrint 憑證
-
 * AirPrint 相關功能，建議**學生機設定為限制**
 
     * 👨‍🏫 教師機建議設定：不設定
 
     * 👩‍🎓 學生機建議設定：⛔ 限制
 
-## 預測鍵盤
+  ### AirPrint 至具有不可信任的憑證目的地
 
-## 鍵盤快速鍵
+  ### 使用 iBeacon 探索 AirPrint 印表機
 
-## 快滑（QuickPath）鍵盤
+  ### 在鑰匙圈中儲存 AirPrint 憑證
 
-## 自動修正
+## ~~預測鍵盤~~ `（已棄用）`
 
-## 拼字檢查
+## ~~鍵盤快速鍵~~ `（已棄用）`
 
-## 定義查詢
+## ~~快滑（QuickPath）鍵盤~~ `（已棄用）`
 
-## 聽寫
+## ~~自動修正~~ `（已棄用）`
 
-* 輸入相關功能，建議不設定
+## ~~拼字檢查~~ `（已棄用）`
 
-    * 👨‍🏫 教師機建議設定：不設定
+## ~~定義查詢~~ `（已棄用）`
 
-    * 👩‍🎓 學生機建議設定：不設定
+## ~~聽寫~~ `（已棄用）`
 
-## 產生個人風格手寫內容
+## ~~產生個人風格手寫內容~~ `（已棄用）`
 
 * 學生機為共用，建議**學生機設定為限制**
 
@@ -567,31 +563,31 @@
 
     * 👩‍🎓 學生機建議設定：⛔ 限制
 
-## ~~Apple Intelligence: Genmoji~~
+## ~~Apple Intelligence: Genmoji~~ `（已棄用）`
 
-## ~~Apple Intelligence：影像樂園~~
+## ~~Apple Intelligence：影像樂園~~ `（已棄用）`
 
-## ~~Apple Intelligence：影像魔杖~~
+## ~~Apple Intelligence：影像魔杖~~ `（已棄用）`
 
-## ~~Apple Intelligence：Intelligence 報告~~
+## ~~Apple Intelligence：Intelligence 報告~~ `（已棄用）`
 
-## ~~Apple Intelligence：郵件智慧型回覆~~
+## ~~Apple Intelligence：郵件智慧型回覆~~ `（已棄用）`
 
-## ~~Apple Intelligence：備忘錄文字記錄摘要~~
+## ~~Apple Intelligence：備忘錄文字記錄摘要~~ `（已棄用）`
 
-## ~~Apple Intelligence：備忘錄文字記錄~~
+## ~~Apple Intelligence：備忘錄文字記錄~~ `（已棄用）`
 
-## ~~Apple Intelligence：Safari 摘要~~
+## ~~Apple Intelligence：Safari 摘要~~ `（已棄用）`
 
-## ~~Apple Intelligence：視覺智慧摘要~~
+## ~~Apple Intelligence：視覺智慧摘要~~ `（已棄用）`
 
-## ~~Apple Intelligence: Writing Tools~~
+## ~~Apple Intelligence: Writing Tools~~ `（已棄用）`
 
-## ~~外部情報整合~~
+## ~~外部情報整合~~ `（已棄用）`
 
-### ~~外部情報登入~~
+### ~~外部情報登入~~ `（已棄用）`
 
-## ~~Apple Intelligence：允許外部智慧工作區 ID~~
+## ~~Apple Intelligence：允許外部智慧工作區 ID~~ `（已棄用）`
 
 * Apple Intelligence 相關功能，生生用平板無法使用，可略過
 
@@ -641,13 +637,9 @@
 
     * 👩‍🎓 學生機建議設定：⛔ 強制執行
 
-## 延遲軟體更新
+## ~~延遲軟體更新~~ `（iPadOS 26 後棄用）`
 
-* 延遲軟體更新天數，建議可以設定 14 - 30 天，避免更新後出問題
-
-    * 👨‍🏫 教師機建議設定：14
-
-    * 👩‍🎓 學生機建議設定：14
+* 延遲 iPadOS 更新天數，可不設定
 
 ## 快速安全回應安裝
 
