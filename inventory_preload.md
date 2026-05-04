@@ -2,9 +2,9 @@
 
 [← 返回首頁](./)
 
-在裝置重置，進行 PreStage 註冊後，iPad 裝置可以透過資產預載設定裝置名稱、使用者名稱，就不用再手動設定
+* 在裝置重置，進行 PreStage 註冊後，iPad 裝置可以透過資產預載設定裝置名稱、使用者名稱，就不用再手動設定
 
-操作說明可參考官方說明文件[資產預載](https://learn.jamf.com/zh-TW/bundle/jamf-pro-documentation-current/page/Inventory_Preload.html)，或是 Jamf 講師的[教學影片](https://www.youtube.com/watch?v=MxMk9mVJFbw)
+* 操作說明可參考官方說明文件[資產預載](https://learn.jamf.com/zh-TW/bundle/jamf-pro-documentation-current/page/Inventory_Preload.html)，或是 Jamf 講師的[教學影片](https://www.youtube.com/watch?v=MxMk9mVJFbw)
 
 ## 資產更新規則
 
