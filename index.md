@@ -1,6 +1,4 @@
-# 說明
-
-本文件說明教育部生生用平板 Jamf Pro 管理系統的功能，相關資訊可參考 [Jamf Pro 說明文件](https://learn.jamf.com/r/zh-TW/jamf-pro-documentation-current/Jamf_Pro_Documentation)
+本文件說明教育部生生用平板 Jamf Pro 管理系統的功能，其餘相關資訊可參考 [Jamf Pro 說明文件](https://learn.jamf.com/r/zh-TW/jamf-pro-documentation-current/Jamf_Pro_Documentation)
 
 ## 設定描述檔
 
